@@ -1,1 +1,1 @@
-# kakunitree
+Página oficial de links dos KakuniBoys, com acesso à Twitch, ao YouTube e ao Instagram, versões em português e inglês e QR code para compartilhamento. Publicada automaticamente pelo GitHub Actions em [kakuniproject.github.io/kakunitree](https://kakuniproject.github.io/kakunitree/).
